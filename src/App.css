@@ -1,0 +1,9 @@
+#root {
+  margin: 4rem auto;
+  padding: 2rem;
+  text-align: center;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  display: inline-flex;
+}
